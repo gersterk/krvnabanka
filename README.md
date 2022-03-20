@@ -6,4 +6,5 @@ I was inspired to make this App amid working for CERVENY KRIZ/SLOVENSKO RED CROS
 This App allows you add donors, edit them; check the lists and edit them. Thanks to Data Binding between data-tables, It makes it very easy, respectively, to register
 a patient, check the availablitiy of stocks, search for needed group of blood and donate them.
 
+It is fully functioning and developing for the best :)
 I will be developing and accelerate it in the time... 
