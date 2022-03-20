@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ed814a9-ce2a-46b3-9e6a-de4175cf007e": {
+      "ProjectGuid": "0ed814a9-ce2a-46b3-9e6a-de4175cf007e",
+      "DisplayName": "BloodBank_CervenyKriz",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
