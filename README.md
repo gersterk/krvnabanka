@@ -1,4 +1,4 @@
-# I have started to develope and design this when I was voluntarily working for community development in Slovakia during very firsrt days of the pandemia. I was inspired
+# I have started to develope and design this when I was voluntarily working for community development in Slovakia during very first days of the pandemia. I was inspired
 to make this App amid working for CERVENY KRIZ/SLOVENSKO RED CROSS..
 
 
